@@ -1,4 +1,4 @@
-## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian Alexander Pucheta.
+## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
 Soy analista de datos, conocimiento en SQL, Python y Power BI. Mi camino profesional comenzó en puestos de call center, donde descubrí mi verdadera pasión por el análisis de datos y decidí enfocarme completamente en este campo. 
 
