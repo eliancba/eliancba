@@ -1,6 +1,7 @@
 ## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
-![Modern Minimal Gradient Background Technology Banner](https://github.com/user-attachments/assets/2e18ed3c-60b8-41c1-884d-bebce3278f29)
+![Portada Linkedin  STUDENTS-3](https://github.com/user-attachments/assets/25d930d9-28fb-49a2-b606-707bb8bcbe01)
+
 
 
 Analista de datos con conocimiento en SQL, Python y Power BI. 
