@@ -10,10 +10,10 @@ Desde pequeño, he tenido un gran interés por la informática, en la adolescenc
 
 ### Skills
 
-Proactivo. \
-Adaptabilidad. \
-Trabajo en equipo. \
-Comunicacion efectiva.
+Python. \
+SQL. \
+Power Bi. \
+En practica con Microsoft Azure.
 <!---
 eliancba/eliancba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
