@@ -16,7 +16,7 @@ Power Bi. \
 En practica con Microsoft Azure.
 
 ### Contacto
-LinkedIn: https://www.linkedin.com/in/pucheta-elian/
+LinkedIn: https://www.linkedin.com/in/pucheta-elian/ \
 Correo: elianpucheta1@gmail.com
 <!---
 eliancba/eliancba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
