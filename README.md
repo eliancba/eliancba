@@ -1,6 +1,6 @@
 ## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
-![Portada Linkedin  STUDENTS-3](https://github.com/user-attachments/assets/25d930d9-28fb-49a2-b606-707bb8bcbe01)
+![Portada Linkedin  STUDENTS-3](https://drive.google.com/file/d/1168Zqo8arnW5ILNTLqEDIzeAQQ7dlWjW/view?usp=drive_link)
 
 
 ## About me!
