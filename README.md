@@ -1,6 +1,6 @@
 ## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
-![(https://drive.google.com/file/d/1168Zqo8arnW5ILNTLqEDIzeAQQ7dlWjW/view?usp=drive_link)]
+![Portada](https://drive.google.com/file/d/1168Zqo8arnW5ILNTLqEDIzeAQQ7dlWjW/view?usp=drive_link)
 
 
 ## About me!
