@@ -1,7 +1,5 @@
 ## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
-![Portada](https://drive.google.com/file/d/1168Zqo8arnW5ILNTLqEDIzeAQQ7dlWjW/view?usp=drive_link)
-
 
 ## About me!
 Analista de datos con conocimiento en SQL, Python y Power BI. 
