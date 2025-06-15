@@ -1,5 +1,6 @@
 ## ¡Hola! Bienvenido a mi perfil de GitHub, Soy Elian.
 
+![Animación](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJlZjdwbTdmem94MWR6aDV3aHNoOWRudTN6eTZ5Z3lkbnR4bDMyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif)
 
 ## About me!
 Analista de datos con conocimiento en SQL, Python y Power BI. 
@@ -10,8 +11,6 @@ Desde pequeño, he tenido un gran interés por la informática, en la adolescenc
 Actualmente estoy cursando la tecnicatura en Tecnologías Aplicadas a la Agropecuaria, donde desarrollo proyectos de software vinculados al monitoreo de cultivos, sensores IoT y procesamiento de datos productivos.
 
 En este perfil vas a encontrar los proyectos que vengo desarrollando tanto de manera académica como personal. Algunos estarán orientados a resolver problemáticas reales del sector agropecuario.
-
-También continúo trabajando en proyectos personales, explorando nuevas herramientas y tecnologías aplicadas al agro y al análisis de datos.
 
 ### Skills
 
