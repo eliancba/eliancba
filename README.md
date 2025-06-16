@@ -11,6 +11,7 @@ Python. \
 SQL. \
 Power Bi. \
 Proactivo. \
+Me gusta trabajar en equipo y aprender de ello.
 
 ### Contacto
 LinkedIn: https://www.linkedin.com/in/pucheta-elian/ \
