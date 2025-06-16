@@ -1,7 +1,7 @@
 #  ¡BIENVENIDO!
 
-Mi nombre es Elian Alexander.
-Analista de datos con conocimiento en SQL, Python y Power BI. 
+Mi nombre es Elian Alexander, soy
+Analista de datos con conocimiento en SQL, Python y Power BI. Con experiencia en ventas y soporte técnico.
 
 Actualmente estoy cursando la tecnicatura en Tecnologías Aplicadas a la Agropecuaria, en este perfil vas a encontrar los proyectos que vengo desarrollando tanto de manera académica como personal. Algunos estarán orientados a resolver problemáticas reales del sector agropecuario.
 
